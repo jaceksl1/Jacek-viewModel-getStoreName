@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Growcode\Blog\ViewModel;
+namespace Test\Blog\ViewModel;
 
 use Magento\Framework\View\Element\Block\ArgumentInterface;
 
