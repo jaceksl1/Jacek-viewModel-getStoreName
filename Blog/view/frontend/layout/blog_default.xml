@@ -3,7 +3,7 @@
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <referenceBlock name="header-content">
         <arguments>
-            <argument name="hello_view_model" xsi:type="object">Growcode\Blog\ViewModel\BlogStoreInfo</argument>
+            <argument name="hello_view_model" xsi:type="object">Test\Blog\ViewModel\BlogStoreInfo</argument>
         </arguments>
     </referenceBlock>
 </page>
